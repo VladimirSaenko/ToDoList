@@ -106,7 +106,7 @@ small {
     }
 
     small {
-        position: absolute;
+        position: relative;
         bottom: 0;
         font-size: 20px;
     }
